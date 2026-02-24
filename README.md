@@ -33,4 +33,4 @@ Smart-Task-Manager/
 
 ## ▶ How to Run
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/PankajHarabhare09/Smart-Task-Manager-Python-CLI-To-Do-Application
